@@ -1,46 +1,19 @@
 ---
 layout: basic
-title: "About Us"
-date: 2018-11-28T15:15:34+10:00
+title: "About me"
 permalink: "/about/"
-description: "Business plan hackathon handshake responsive web design."
-image: "/assets/images/gen/content/content-5.webp"
+description: ""
+image: # "/assets/images/gen/content/content_5.jpg"
 ---
 
-# Creating Modern Websites
+👋 Tom here, I appreciate your interest in learning more about my background. 
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+For the last couple of years, all of my focus has been directed towards partnering with digital health startups. After collaborating with a couple of exceptional teams in this field, my decision has been made to seek out similar opportunities and center my efforts on digital products that positively affects the lives and wellbeing of others.
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+Prior to this, I've been involved in a diverse range of projects during my career as a designer, covering fields such as telematics, data, web3, IoT, digital marketing etc., each with their own unique rules, customs and practices. I've gained valuable insights into numerous product development cycles, as well as user and business goals, and learned how to give and solicit feedback without being overly attached to my work when constructive feedback is put forward.
 
-## What is Web Design?
+I consider myself detail-oriented, pragmatic and collaborative. Over the years, I've held both project-based and full-time roles in various remote teams, and I consider myself very diligent and disciplined when it comes to distributed teamwork. My professional proficiency in verbal and written English allows me to have fluent conversations when ideas have to be pitched or communicated efficiently and succinctly.
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+> [Feel free to reach out - let's connect and talk design ✋](/contact)
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
-
-## Front-end Development
-
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
-
-> As a UX designer, you should consider the Why, What and How of product use.
-
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
-
-## Design Systems
-
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
-
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
-
-## Process
-
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
-- User experience research
-- Visual design and illustration
-- Programming and coding
-
-![Design In Figma]({{ "/assets/images/gen/content/content-2.webp" | relative_url }})
-
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+![Tom Mavic CV](/assets/images/gen/projects/mavicCV.png)
