@@ -2,7 +2,7 @@
 layout: home
 permalink: "/"
 title: "<strong>Human UX</strong> for digital health." 
-description: "👋 I'm Tom, product designer from Croatia, providing UX and design solutions to early-stage and scaling startups in digital health, most recently in the scope of e/mHealth, telehealth and EHR. Authoring new designs, improving existing ones, auditing and resolving user retention issues, my focus is to craft frictionless, intuitive and accessible experiences; <strong>create human UX for digital health</strong>."
+description: "👋 I'm Tom, product designer from Croatia, providing UX and design solutions to early-stage and scaling digital health startups, most recently in the scope of e/mHealth, telehealth and EHR. Authoring new designs, improving existing ones, auditing and resolving user retention issues, my focus is to craft frictionless, intuitive and accessible experiences; <strong>create human UX for digital health</strong>."
 meta_description: "Tom Mavic - product designer for digital health"
 meta_title: Tom Mavic - product designer for digital health
 subscribe: false
